@@ -1,6 +1,6 @@
 """
 
-Content here for testing
+testing merge Content here for testing
 
 
 """
@@ -28,6 +28,7 @@ Adding more to try stash
 
 more testing 
 
+<<<<<<< Updated upstream
 """
 
 
@@ -35,4 +36,6 @@ more testing
 
 Still adding
 
+=======
+>>>>>>> Stashed changes
 """
