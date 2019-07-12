@@ -1,7 +1,7 @@
 """
 
 testing merge Content here for testing
-
+more committs for testing
 
 """
 
@@ -25,10 +25,16 @@ Adding more to try stash
 """
 
 """
+
 Adding more adding more
 more testing 
+more testing make some commits on github AND make some changes using py charm
 
-<<<<<<< Updated upstream
+
+Trying out a conflict resolution
+
+
+
 """
 
 
@@ -37,5 +43,5 @@ more testing
 Still adding
 
 =======
->>>>>>> Stashed changes
+
 """
