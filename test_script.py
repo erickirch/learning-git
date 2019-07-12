@@ -26,7 +26,7 @@ Adding more to try stash
 
 """
 
-more testing 
+more testing make some commits on github AND make some changes using py charm
 
 <<<<<<< Updated upstream
 """
